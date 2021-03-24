@@ -1,1 +1,11 @@
-# MPCT-FATEC-BD
+Problema 
+
+
+Motivação 
+
+
+
+Proposta de solução 
+
+
+
