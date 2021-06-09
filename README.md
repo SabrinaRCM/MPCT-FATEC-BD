@@ -1,5 +1,5 @@
 ## Abstract
-Public safety is a hotly debated subject and new ways to help accomplish this task are always emerging, thanks to technology these options have expanded and become more accurate and reliable. One of these technologies is called the Internet of Things (IoT), it is a new concept of using the internet as a way of interconnecting physical objects of our daily lives in the virtual network. Thus, this work aimed to explore the current literature on the Internet of Things (IoT) with application in the security area.
+<div style='text-align: center'>Public safety is a hotly debated subject and new ways to help accomplish this task are always emerging, thanks to technology these options have expanded and become more accurate and reliable. One of these technologies is called the Internet of Things (IoT), it is a new concept of using the internet as a way of interconnecting physical objects of our daily lives in the virtual network. Thus, this work aimed to explore the current literature on the Internet of Things (IoT) with application in the security area.</div>
 
 ## Resumo 
 A segurança pública é um assunto extremamente debatido e sempre estão surgindo novas formas de ajudar a cumprir essa tarefa, graças a tecnologia essas opções se expandiram e se tornaram mais precisas e confiáveis. Uma dessas tecnologias é denominada como Internet da Coisas (IoT), é um novo conceito de utilização de internet sendo uma forma de interconexão dos objetos físicos do nosso cotidiano na rede virtual. Sendo assim, este trabalho teve como objetivo explorar a literatura atual sobre a Internet das Coisas(IoT) com aplicação na área de segurança.
@@ -52,14 +52,23 @@ Esta proposta visa diminuir o risco para a vítima de roubo e dar segurança a u
 ## Referências
 
 Canaltech. O que é Computação Ubíqua?. Disponível em: https://canaltech.com.br/produtos/O-que-e-Computacao-Ubiqua/.
+
 Costa, C. L., Oliveira, L. and Móta, L. M. S. (2018). Internet das coisas (IOT): um estudo exploratório em agronegócios. Disponível em: https://www.ufrgs.br/cienagro/wp-content/uploads/2018/10/Internet-das-coisas-IOT-um-estudo-explorat%C3%B3rio-em-agroneg%C3%B3cios.docx-Cain%C3%A3-Lima-Costa.pdf.
+
 Dados.MJ. Ocorrências Criminais – Sinesp. Disponível em: http://dados.mj.gov.br/dataset/sistema-nacional-de-estatisticas-de-seguranca-publica.
+
 Future (2020). IoT – Internet das Coisas, conceitos e desafios da segurança. Disponível em: https://www.future.com.br/iot-internet-das-coisas-conceitos-e-desafios-da-seguranca/.
+
 Grupo Tracker (2020). Blog da tracker: Roubo e furto de veículos subiram 12,35% nas últimas duas semanas. Disponível em: https://www.grupotracker.com.br/blog/roubo-e-furto-de-veiculos-subiram-nas-ultimas-duas-semanas.
+
 Junior, A. A. J. and Moreno, E. D. (2015). Segurança em Infraestrutura para Internet das Coisas. Disponível em: https://periodicos.ufpe.br/revistas/gestaoorg/article/viewFile/22122/18487.
+
 Justiça e segurança pública. DADOS E INFORMAÇÕES NACIONAIS DE SEGURANÇA PÚBLICA. Disponível em: https://www.justica.gov.br/sua-seguranca/seguranca-publica/sinesp/1/bi/dados-seguranca-publica.
+
 Lopez (2013). Uma introdução à Internet da Coisas (IoT). Disponível em: https://www.cisco.com/c/dam/global/pt_br/assets/brand/iot/iot/pdfs/lopez_research_an_introduction_to_iot_102413_final_portuguese.pdf.
+
 Red Hat. A INTERNET DAS COISAS: O que é a Internet das Coisas (IoT)?. Disponível em: https://www.redhat.com/pt-br/topics/internet-of-things/what-is-iot.
+
 Weiser, M. (1991). The Computer for the 21st Century Mark Weiser(TRADUÇÂO). Disponível em: https://www.passeidireto.com/arquivo/64603882/the-computer-for-the-21st-century-mark-weiser-traducao.
 
 
